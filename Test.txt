@@ -3,3 +3,8 @@ MORE LINES
 EVEN MORE CODE
 
 SAVE THE WORLD!
+
+func ENDTHEWORLD():
+	return bleh
+
+adlfk;jsf;aiofjopa;eigjoas;fb;
